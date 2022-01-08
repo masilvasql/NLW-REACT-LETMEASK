@@ -9,3 +9,13 @@
 - Criação de arquivos de configuração de veriáveis de ambiente.
 _____
 
+## Aula 2
+
+- Adicionado Estilização SASS;
+- Criado componentes; 
+- Criado tela inicial e tela de criação das salas; 
+- Criado autenticação com o google - Firebase; 
+- Criado hooks; 
+- Criado contexto de autenticação; 
+- Salvo no estados; 
+- Criado tipagens.
