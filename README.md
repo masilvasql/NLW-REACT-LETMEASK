@@ -19,3 +19,13 @@ _____
 - Criado contexto de autenticação; 
 - Salvo no estados; 
 - Criado tipagens.
+_____
+
+## Aula 3
+
+- Iniciado templade da sala de perguntas; 
+- Criado estilização inicial; 
+- Enviado dados das perguntas para o Firebase; 
+- Recuperado dados do firebase; 
+- Criado regras de segurança diretamente no Firebase;
+- Criado componente RoomCode.
